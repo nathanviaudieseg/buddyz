@@ -46,7 +46,7 @@ a {
 }
 
 .banner {
-  background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 50%), url("https://img.freepik.com/photos-gratuite/groupe-chiots-mignons-assis-regarder-camera-interieur-generee-par-intelligence-artificielle_188544-113182.jpg?t=st=1743264134~exp=1743267734~hmac=faa1eded2bd2ee30a9d62c74d2f4e13097e0cfd6b898f0b2e7b9489b0495f565&w=2000");
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 50%), url('https://img.freepik.com/photos-gratuite/groupe-chiots-mignons-assis-regarder-camera-interieur-generee-par-intelligence-artificielle_188544-113182.jpg?t=st=1743264134~exp=1743267734~hmac=faa1eded2bd2ee30a9d62c74d2f4e13097e0cfd6b898f0b2e7b9489b0495f565&w=2000');
   background-size: cover;
   background-position: center;
   padding: 150px 0;
